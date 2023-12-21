@@ -1,0 +1,65 @@
+[   
+    {
+        "oppName": "Hector Mercedes",
+        "oppAge": "20",
+        "mikeAge": "18",
+        "fightDate": "1985-03-06",
+        "roundEnded": "1",
+        "result": "win",
+        "winType": "KO"
+    },
+    {
+        "oppName": "Trevor Berbick",
+        "oppAge": "32",
+        "mikeAge": "20",
+        "fightDate":"1986-11-22",
+        "roundEnded": "2",
+        "result": "win",
+        "winType": "TKO"
+    },
+    {
+        "oppName": "Larry Holmes",
+        "oppAge": "39",
+        "mikeAge": "21",
+        "fightDate": "1988-01-22",
+        "roundEnded": "4",
+        "result": "win",
+        "winType": "TKO"
+    },
+    {
+        "oppName": "Michael Spinks",
+        "oppAge": "31",
+        "mikeAge": "21",
+        "fightDate": "1988-06-27",
+        "roundEnded": "1",
+        "result": "win",
+        "winType": "KO"
+    },
+    {
+        "oppName":"Buster Douglas",
+        "oppAge": "29",
+        "mikeAge": "23",
+        "fightDate": "1990-02-11",
+        "roundEnded": "10",
+        "result": "loss",
+        "winType": "KO"
+    },
+    {
+        "oppName": "Evander Holyfield",
+        "oppAge": "34",
+        "mikeAge": "30",
+        "fightDate": "1996-11-09",
+        "roundEnded": "11",
+        "result": "loss",
+        "winType": "TKO"
+    },
+    {
+        "oppName": "Evander Holyfield",
+        "oppAge": "34",
+        "mikeAge": "30",
+        "fightDate": "1997-06-28",
+        "roundEnded": "3",
+        "result": "loss",
+        "winType": "DQ"
+    }
+]
